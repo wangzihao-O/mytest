@@ -15,6 +15,7 @@ public class Test1Application {
         System.out.println("hello world ");
         System.out.println("i am master");
         System.out.println("i write 1");
+        System.out.println("i write 2");
     }
     public static void test1wzh(){
         System.out.println("hello world ");

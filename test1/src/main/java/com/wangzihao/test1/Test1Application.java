@@ -23,5 +23,8 @@ public class Test1Application {
         System.out.println("wzh write 1");
         System.out.println("wzh write 2");
     }
+    public static void function1(){
+        System.out.println("i am function1 !");
+    }
 
 }

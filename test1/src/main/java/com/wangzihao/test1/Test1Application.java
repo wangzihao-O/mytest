@@ -36,6 +36,7 @@ public class Test1Application {
     public static void function3(){
         System.out.println("i am function3 !");
         System.out.println("function3 have 1");
+        System.out.println("function3 have 2");
     }
 
 }

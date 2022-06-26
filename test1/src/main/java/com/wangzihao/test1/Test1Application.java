@@ -19,6 +19,7 @@ public class Test1Application {
     public static void test1wzh(){
         System.out.println("hello world ");
         System.out.println("i am wzh");
+        System.out.println("wzh write 1");
     }
 
 }

@@ -20,6 +20,7 @@ public class Test1Application {
         System.out.println("hello world ");
         System.out.println("i am wzh");
         System.out.println("wzh write 1");
+        System.out.println("master write 2");
     }
 
 }

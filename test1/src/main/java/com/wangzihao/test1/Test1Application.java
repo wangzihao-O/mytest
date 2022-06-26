@@ -25,6 +25,8 @@ public class Test1Application {
     }
     public static void function1(){
         System.out.println("i am function1 !");
+        System.out.println("function1 have 1");
+        System.out.println("function1 have 2");
     }
 
 }

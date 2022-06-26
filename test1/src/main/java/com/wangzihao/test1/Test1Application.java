@@ -13,7 +13,7 @@ public class Test1Application {
 
     public static void test1(){
         System.out.println("hello world ");
-        System.out.println("main");
+        System.out.println("i am main");
     }
 
 }
